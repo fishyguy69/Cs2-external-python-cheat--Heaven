@@ -47,9 +47,15 @@ Tabbed PySide6 GUI for easy navigation
 
 Hotkey support
 
-How do i run it?
+How do i run it?:
 Download the .zip file then right click to your folder open terminal and paste this is:
 pip install -r requirements.txt
+
+Then open CS2 and just run mod.py
+
+
+NOTE: Not everything is perfect updates maybe soon
+
 
 
 
