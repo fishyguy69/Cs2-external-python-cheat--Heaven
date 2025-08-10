@@ -1,0 +1,12 @@
+pymem
+pywin32
+pyMeow
+keyboard
+psutil
+requests
+pynput
+PySide6
+playsound==1.2.2
+Keyboard
+json
+math
